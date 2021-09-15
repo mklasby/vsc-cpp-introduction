@@ -82,6 +82,19 @@ stored in multiple directories. See video.
 ## Deeper directory trees
 * More structured development with deeper directory structures
 * Libraries for reusable objects / third party libraries
+        
+        //in root dir -> ./
+        cmake_minimum_required(VERSION 3.15)
+        project(lab1 VERSION 0.1)
+        add_subdirectory(src bin)
+        
+        //in src dir -> ./src/
+        message(STATUS "Hello there from config. Current list dir is: ${CMAKE_CURRENT_LIST_DIR}")
+        include_directories(BEFORE mystring log)
+        add_library(mystring mystring/mystring.cpp mystring/mystring.h)
+        add_library(log log/log.cpp log/log.h)
+        add_executable(exAmain exAmain.cpp)
+        target_link_libraries(exAmain log mystring)
 
 # Debugging
 * Step into -> Step into function on the current line
