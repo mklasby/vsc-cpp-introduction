@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/exAmain.dir/exAmain.cpp.obj -c C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/exAmain.cpp",
+  "file": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/exAmain.cpp"
+},
+{
+  "directory": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/exAmain.dir/mystring.cpp.obj -c C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/mystring.cpp",
+  "file": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/mystring.cpp"
+},
+{
+  "directory": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/exBmain.dir/exBmain.cpp.obj -c C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/exBmain.cpp",
+  "file": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/exBmain.cpp"
+},
+{
+  "directory": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/exBmain.dir/mystring_B.cpp.obj -c C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/mystring_B.cpp",
+  "file": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/mystring_B.cpp"
+},
+{
+  "directory": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/exBmain.dir/dictionaryList.cpp.obj -c C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/dictionaryList.cpp",
+  "file": "C:/Users/Mike/Documents/Code/_MEng/480_ENSF/vsc-cpp-introducton/lab1_windows/dictionaryList.cpp"
+}
+]

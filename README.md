@@ -76,7 +76,8 @@ stored in multiple directories. See video.
 
         cmake_minimum_required(VERSION 3.15)
         project(myProj VERSION 0.1)
-        add_executable(target_name <source_file1> <source_file2>)
+        add_executable(target_name2 <source_file1> <source_file2>)
+        add_executable(target_name2 <source_file3> <source_file4>)
 
 ## Deeper directory trees
 * More structured development with deeper directory structures
@@ -88,3 +89,8 @@ stored in multiple directories. See video.
 * Step out -> Step out of current function on top of stack
 
 You can use breakpoints to examine local variables, including their addresses!
+
+# Additional Resources:
+* [Cherno C++ Playlist - Youtube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+* [How to CMake Good Playlist - Youtube](https://www.youtube.com/watch?v=_yFPO1ofyF0&list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s&ab_channel=vector-of-bool)
+* [CMake Docs](https://cmake.org/cmake/help/latest/index.html)
