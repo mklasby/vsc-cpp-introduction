@@ -1,0 +1,7 @@
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/CMakeFiles/rebuild_cache.dir
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/CMakeFiles/edit_cache.dir
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin/CMakeFiles/rebuild_cache.dir
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin/CMakeFiles/edit_cache.dir
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin/CMakeFiles/exAmain.dir
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin/CMakeFiles/log.dir
+/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin/CMakeFiles/mystring.dir

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/log -I/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/mystring  -g   -o CMakeFiles/exAmain.dir/exAmain.cpp.o -c /home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/exAmain.cpp",
+  "file": "/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/exAmain.cpp"
+},
+{
+  "directory": "/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/log -I/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/mystring  -g   -o CMakeFiles/log.dir/log/log.cpp.o -c /home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/log/log.cpp",
+  "file": "/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/log/log.cpp"
+},
+{
+  "directory": "/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/build/bin",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/log -I/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/mystring  -g   -o CMakeFiles/mystring.dir/mystring/mystring.cpp.o -c /home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/mystring/mystring.cpp",
+  "file": "/home/mklasby/Documents/meng/480/videos/vsc_intro/lab1_unix/src/mystring/mystring.cpp"
+}
+]

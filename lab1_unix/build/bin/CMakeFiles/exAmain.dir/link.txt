@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/exAmain.dir/exAmain.cpp.o  -o exAmain  liblog.a libmystring.a 

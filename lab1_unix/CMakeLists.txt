@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(lab1 VERSION 0.1)
+add_subdirectory(src bin)
+message(STATUS "Hello there from config. Current list dir is: ${CMAKE_CURRENT_LIST_DIR}")
+set(i "4")
+message(STATUS "i = ${i}")

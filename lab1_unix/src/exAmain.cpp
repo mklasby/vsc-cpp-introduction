@@ -5,6 +5,7 @@
 #include <iostream>
 using namespace std;
 #include "mystring.h"
+#include "log.h"
 
 int main(void)
 {
@@ -39,6 +40,7 @@ int main(void)
   Mystring d = "Green";
   
   cout << "\nProgram terminated successfully." <<endl;
+  log("Hello there!");
   return 0;
 }
 
