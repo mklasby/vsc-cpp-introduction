@@ -2,15 +2,15 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: g++ build active file",
+            "label": "C/C++: g++ build active file", // Refactored to build exBmain
             "command": "/usr/bin/g++",
             "args": [
                 "-g", //debug mode
                 "${file}",
-                "mystring.cpp",
-                "log.cpp",
-                "-o", //output flag -> renaming out file
-                "${workspaceFolder}/bin/${fileBasenameNoExtension}"
+                "dictionaryList.cpp",
+                "mystring_B.cpp",
+                "-o", //output name for program
+                "${workspaceFolder}/bin/${fileBasenameNoExtension}" //point to bin
             ],
             "options": {
                 "cwd": "${fileDirname}"
