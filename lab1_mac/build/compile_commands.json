@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/exBmain.dir/mystring_B.cpp.o -c /Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/mystring_B.cpp",
+  "file": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/mystring_B.cpp"
+},
+{
+  "directory": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/exBmain.dir/dictionaryList.cpp.o -c /Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/dictionaryList.cpp",
+  "file": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/dictionaryList.cpp"
+},
+{
+  "directory": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/exBmain.dir/exBmain.cpp.o -c /Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/exBmain.cpp",
+  "file": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/exBmain.cpp"
+},
+{
+  "directory": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/exAmain.dir/mystring.cpp.o -c /Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/mystring.cpp",
+  "file": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/mystring.cpp"
+},
+{
+  "directory": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/exAmain.dir/exAmain.cpp.o -c /Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/exAmain.cpp",
+  "file": "/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/exAmain.cpp"
+}
+]

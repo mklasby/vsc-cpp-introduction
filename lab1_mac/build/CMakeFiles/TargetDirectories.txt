@@ -1,0 +1,4 @@
+/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build/CMakeFiles/rebuild_cache.dir
+/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build/CMakeFiles/edit_cache.dir
+/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build/CMakeFiles/exBmain.dir
+/Users/mike/Code/ensf-480/vsc-cpp-introducton/lab1_mac/build/CMakeFiles/exAmain.dir

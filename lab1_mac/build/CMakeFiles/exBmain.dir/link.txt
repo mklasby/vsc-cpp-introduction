@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/exBmain.dir/mystring_B.cpp.o CMakeFiles/exBmain.dir/dictionaryList.cpp.o CMakeFiles/exBmain.dir/exBmain.cpp.o -o exBmain 
